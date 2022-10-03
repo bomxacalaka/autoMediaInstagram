@@ -7,3 +7,5 @@ How it works, it gets 3 words from the local file words.txt, sends them to bloom
 Why I made this? The first idea was to make automatic advertisements with posts and a chatbot to answer all questions asked on private about the advert. Another reason was to learn new things. The advertising idea using AI kind of faded away as I dont know yet how to implement it efficiently.
 
 Why2 I made this? I have a lot of free time and I can't stop thinking about my hobbies(one of them being bringing random ideas to python).
+
+https://www.instagram.com/literallyjustbloomingaway/
